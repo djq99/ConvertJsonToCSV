@@ -18,14 +18,14 @@ Test-bb8747c9d5bb.json -- is the credential to login in the google api
 
 To Run it:
 
-1. Install the dependency below in your terminal:
+           1. Install the dependency below in your terminal:
 
-pip install --upgrade google-api-python-client
+              pip install --upgrade google-api-python-client
 
-pip install gspread
+              pip install gspread
 
-2. Write an email address you want to share with at homework.py file and the location is:
-createGoogleSpreadsheet function under main function. you should add first parameter of it.
+           2. Write an email address you want to share with at homework.py file and the location is:
+              createGoogleSpreadsheet function under main function. you should add first parameter of it.
 
-3. python homework.py
-Just wait couple of seconds then everything will be done. Cheers!
+           3. python homework.py
+              Just wait couple of seconds then everything will be done. Cheers!
